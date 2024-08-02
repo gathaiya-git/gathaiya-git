@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... statistics with R
 - 💞️ I’m looking to collaborate on ... Biogeochemistry of the Nitrogen cycle 
 - 📫 How to reach me ... Linkedin  
-- 😄 Pronouns: ...
+- 😄 Pronouns:😄
 - ⚡ Fun fact: ... louis Pasteur once said " Gentlemen, it is the microbes who will have the last word"
 
 <!---
